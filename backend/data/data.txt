@@ -1,3 +1,352 @@
-Campus Ciudad de Mexico
+Planes de estudios por especialidades
 
-Campus Ciudad UP
+ESPECIALIDAD EN LOGÍSTICA INTERNACIONAL
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/especialidades/especialidad-en-log%C3%ADstica-internacional
+
+ESPECIALIDAD EN INGENIERÍA Y GESTIÓN DE PROYECTOS
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/especialidades/especialidad-en-ingenier%C3%ADa-y-gesti%C3%B3n-de-proyectos
+
+ESPECIALIDAD EN DIRECCIÓN DE OPERACIONES
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/especialidades/especialidad-en-direcci%C3%B3n-de-operaciones
+
+ESPECIALIDAD DE ROBÓTICA Y MANUFACTURA
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/especialidades/especialidad-en-rob%C3%B3tica-y-manufactura
+
+ESPECIALIDAD EN SIMULADORES GRÁFICOS
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/especialidades/especialidad-en-simuladores-gr%C3%A1ficos
+
+ESPECIALIDAD EN INGENIERÍA Y GESTIÓN AMBIENTAL
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/especialidades/especialidad-en-ingenier%C3%ADa-y-gesti%C3%B3n-ambiental
+
+Diplomado en ciencia de datos
+¿CÓMO SE OBTIENE EL DIPLOMADO EN CIENCIA DE DATOS? 
+
+TRACK OPTATIVO DE CIENCIA DE DATOS + MÓDULO EXTRA = 4 Módulos
+ 
+Materias del track optativo (parte de la Especialidad)
+
+1. Inteligencia de negocio y soluciones de ciencia de datos**
+
+(Por lo general de oferta en el semestre de Agosto y Enero)
+
+2. Aprendizaje automático***  
+
+(Por lo general de oferta en el semestre de Agosto y Enero)
+
+3. Análisis de grandes volúmenes de datos
+(Por lo general de oferta en el semestre de Enero)
+ 
+Módulo extra
+
+4. Estrategias Empresariales basadas en Ciencia de Datos
+
+(Se oferta en Marzo, este módulo es independiente a la Especialidad = 5 créditos) 
+
+- - - - - - - - - IMPORTANTE - - - - - - - - - -
+
+**Para tomar esta materia se sugiere repasar conceptos básicos de programación, estructura, bases de datos, probabilidad y estadística. 
+Ponemos este curso a tu disposición para que repases los temas.
+(La recomendación es enfocarte en lo que sientas que necesitas más refuerzo)
+
+1. Ir a khanacademy.org/join
+2. Ingresar los siguientes dos códigos:
+
+Mathematics for Machine Learning - TE3BQ5RY
+
+Computing for Data Science - medium - 442GSAZB
+
+Computing for Data Science - introduction - KANEEMJ9
+
+***Para los alumnos que cursen la materia de Aprendizaje Automático, se recomienda repasar los siguientes conceptos de programación:
+
+Tipos de datos
+Listas
+Tuplas
+Arreglos
+Condicionales
+Bucles
+Funciones
+Puedes consultar este contenido en el curso "Python for Everybody" en coursera. Para poder acceder con tiempo ilimitado, deberás:
+
+
+Crear tu cuenta en COURSERA con tu correo institucional (obligatorio).
+Escribir al correo rediaz@up.edu.mx para que te asigne una licencia. Revisa en tu correo (también en spam) la invitación al curso.
+Acceder al curso dando click aquí
+
+Las licencias son limitadas, por lo que si tu licencia no tuviera actividad en 3 meses, será retirada.
+
+Coordinadores y personal de especialidad
+DR. MAURICIO PARDO
+Director de postgrados
+jpardo@up.edu.mx
+
+MTRA. LORENA BERUMEN
+COORDINACIÓN ACADEMICA / Logistica Internacional / Esp.  y Mae. en Dirección de Operaciones / Mae.Cadena de Suministro
+laberumen@up.edu.mx
+
+ING. ANDRÓMEDA PÉREZ
+Admisiones
+caperez@up.edu.mx
+
+LIC. Claudia Susana Sánchez Vizcaya
+Admisiones
+ssanchezv@up.edu.mx
+
+DR. OCTAVIO LOZADA
+Coordinación de academia / Gestion Ambiental / Simuladores Gráficos / Robótica y Manufactura 
+olozada@up.edu.mx
+
+ING. CARLOS WELSH
+Coordinador Académico de la Especialidad en Ingeniería y Gestión de Proyectos Gestión / Maestría en Ingeniería
+Te puede ayudar principalmente con: Asuntos académicos
+cwelsh@up.edu.mx
+
+ING. FRANCISCO CAL Y MAYOR
+CAE de Posgrados (Coordinador de Asuntos Estudiantiles)
+Te puede ayudar principalmente con: Asuntos administrativos
+fcal@up.edu.mx
+
+MTRA. MARIANA VILLANUEVA
+COORDINACIÓN DE ALUMNI Y TUTILACIÓN
+mvillanu@up.edu.mx
+
+
+Documentos importantes
+General: 
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/documentos-importantes
+
+Formato de inscripción: 
+https://drive.google.com/file/d/177fpnXzTmfHKBJ9Nw2gz-sVeQ1i1hCpW/view
+
+Reglamento interno: 
+https://drive.google.com/file/d/17GaWsucX-jSlOze1qrqES9Xaz1bpZ7A-/view
+
+Reglamento general: 
+https://drive.google.com/file/d/17GaWsucX-jSlOze1qrqES9Xaz1bpZ7A-/view
+
+Guía para la obtención del título, diploma y grado académico:
+https://drive.google.com/file/d/17K1liyF8b3MkqeIyJTb3ZmVdebNOOqZX/view
+
+
+Requisitos para admisión a posgrados
+Link a la información de Requisitos para admisión a posgrados: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/documentos-importantes?authuser=0
+
+Licenciatura concluida
+Escuela Práctica Avanzada acreditada. Revisar con la Dra. Joaquina Niembro (iniembro@up.edu.mx)
+Inglés liberado, TOEFL: 550 puntos. Revisar con el Centro de lenguas
+Servicio Social liberado. Revisar con Servicio Social (ssocialup@up.edu.mx)
+No tener adeudos en caja
+Enviar por correo electrónico a Admisiones de Ingeniería el formato de inscripción y una identificación oficial (INE) (Susana Sánchez, ssanchezv@up.edu.mx o  Andrómeda Pérez, caperez@up.edu.mx)
+
+Becas y financiamiento
+Link a la información de becas y financiamiento: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/becas-financiamientos-seguro-de-orfandad-y-sgmm
+
+Contamos con diferentes opciones de apoyos económicos para que estudies tu Posgrado con nosotros. 
+Descuentos: Convenio Corporativo, Pago Único, Alumni Universidad Panamericana
+
+BECAS
+Beca Académica, Beca Deportiva
+Para alumnos 4+1, se aplica la beca académica que conservaron de Licenciatura sólo para el año de la Especialidad que corresponde a la titulación.
+
+Contactos: 
+Financiamientos externos:
+Marianela Hernández Arevalo - mhernandeza@up.edu.mx
+
+Becas:
+Abraham Orozco Rivera - aorozcor@up.edu.mx
+
+Seguros de Orfandad:
+Jessica M. Castillo D. - jcastill@up.edu.mx
+
+Seguro de orfandad y seguro de gastos médicos mayores
+Link a la información de Seguro de orfandad y seguro de gastos médicos mayores: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/becas-financiamientos-seguro-de-orfandad-y-sgmm
+
+Seguro de orfandad: 
+Si tus padres o un tutor continuarán pagando las colegiaturas de la Especialidad y deseas adquirir un Seguro de Orfandad, deberás conocer la siguiente información:
+Costo del Seguro de Orfandad: $1,797.00 pesos semestrales, para el Seguro Mancomunado el costo es de $2,789.71 MXN semestrales
+NOTA:Se puede pagar en línea y es importante indicar el concepto.
+Debes llenar el Formato de alta del Seguro de Orfandad. Adjunto.
+NOTA: Debes incluir copia de RFC del padre o tutor.
+El registro deberá de ser en https://seguros.up.edu.mx/ 
+Para la aceptación y confirmación del seguro de orfandad, tendrán que ingresar a dicha plataforma y "confirmar" que los datos de su(s) tutor(es) sean correctos.
+
+¿CUÁNDOSE PAGA EL SEGURO DE ORFANDAD?
+Para el semestre agosto - diciembre se debe pagar antes de la primera quincena de agosto del presente año.
+Para el semestre enero - julio se debe pagar antes del 31 de enero del año en curso.
+
+IMPORTANTE 
+Este proceso se debe realizar cada semestre, ya que no hay una renovación automática.
+
+¿DUDAS SOBRE EL SEGURO DE ORFANDAD?
+Jessica Castillo Delgado
+jcastill@up.edu.mx
+Tel. (55) 5482 1600 Ext. 6218
+
+
+Seguro de gastos médicos mayores 
+El costo del Seguro de Gastos Médicos Mayores es de $1,995 MXN semestrales. Puedes ingresar a la siguiente liga para más información: https://seguros.up.edu.mx/
+En la misma plataforma, al ingresar a seguro de gastos médicos mayores, habrá dos opciones:
+Cancelar: los alumnos que cuenten con una póliza de gastos médicos mayores privada (no aplica servicio médico de PEMEX), deberán subirla en la plataforma para cancelar el seguro de la Universidad.
+Pagar: al ingresar encontrarán la cuenta bancaria de seguros GNP y una referencia única con la que podrán realizar el pago referenciado del SGMM.
+
+NOTAS:
+El pago no se hará a través de la plataforma de la UP o en la UP, sólo se hará directamente a GNP en su plataforma a través de esta referencia única por alumno.
+Ambas actividades, pago o cancelación de SGMM, deben realizarse cada semestre.
+En caso de no cancelar o no realizar el pago correspondiente en la fecha límite, se generará un indicador de servicio negativo en su estado de cuenta de la Universidad.
+Contar con una póliza de SGMM es de carácter obligatorio para todos los alumnos 4+1
+
+¿Tienes alguna duda?
+Contacto: mx_sgmm_mex@up.edu.mx
+
+
+Costos y pagos
+Link a la información de costos y pagos: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/costos-pagos?authuser=0
+
+Costo del crédito: $6,217.00
+Costo Total de la Especialidad (50 créditos) = $310,850.00
+
+Formas de pago:
+Se puede pagar en línea a través del portal de pagos: https://portaldepagos.up.edu.mx/
+También se puede pagar en caja o bancos, Cheques expedidos a: Centros Culturales de México, A.C.
+Para bancos:
+HSBC Clave 7046 + ID con dígito verificador*
+Santander Convenio 1509 + ID con dígito verificador*
+Banorte Emisora 102950 + ID con dígito verificador*
+Banamex Cta. 7005-1124926 + ID con dígito verificador*
+BBVA Bancomer CIE 844330 + ID con dígito verificador*
+
+SPEI Referenciado:
+Clabe: 014180655024150941
+Beneficiario: Centros Culturales de México, A.C.
+Banco: Santander
+
+Importante:
+En el campo de concepto de pago, texto o referencia (según el banco) inidcar el ID+ con dígito verificador* (8 dígitos, sin comas, guiones ni espacios)
+
+*Para obtener tu código verificador puedes entrar a la siguiente página: https://movil.gdl.up.mx/tesoreria/seccion/referencia/mexico
+
+Contactos de pagos:
+Para consultar dudas de pago, descuento por pronto pago, etc, escribe a Caja mx_caja@up.edu.mx
+
+PROBLEMAS CON EL PORTAL DE PAGOS: helpdesk@up.edu.mx 
+
+FACTURAS
+C.P. Ma. Pilar Fabiola Endeje
+facturasup@up.edu.mx 
+
+CONSULTA DE DÍGITO VERIFICADOR
+https://movil.gdl.up.mx/tesoreria/seccion/referencia/mexico
+
+Aclaración y negociación de saldos vencidos,
+acuerdos de pagos, indicador de adeudos
+cobranza@up.edu.mx
+
+
+Consulta de saldos y revisión de estado de cuenta en la página UP4U, dentro de la sección “Mis registros financieros --> Consulta de estado de cuenta”
+https://up4u.up.edu.mx/p/home 
+
+
+Tutoriales
+Link a la información de tutoriales: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/tutoriales?authuser=0
+
+Link a tutorial de inscripción de materias:
+https://www.youtube.com/watch?v=4KdjQEcDLZA
+
+Link a tutorial para consultar saldos, asistencias, calificaciones, horarios, etc.:
+https://drive.google.com/file/d/1tISvBpZmIqg9w4MKlwbUgvjVuBEssq90/view
+
+Link a tutorial del site interno de posgrados:
+https://drive.google.com/file/d/1bRCaRQHVOAi3vrVVq_bdJcguZq_W6ffc/view
+
+Link a tutorial de moodle: 
+https://drive.google.com/file/d/1aN4LC_ugRJ9ADRRCqdifWnoUE-iH2TQW/view
+
+
+Preguntas frecuentes
+Link a la información de preguntas frecuentes: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/preguntas-frecuentes?authuser=0
+
+Pregunta: ¿Cuál es el proceso para pedir revisión de exámenes?
+Respuesta: La revisión de exámenes podrá ser solicitada a la Coordinación Académica con la Mtra. Lorena Berumen al correo laberumen@up.edu.mx. Tienes hasta 48 horas después de que la calificación haya sido publicada para solicitar una revisión. Para alumnos de la Maestría en Ciencia de Datos, harán la solicitud con el coordinador de dicha maestría.
+El correo tendrá que tener como Asunto: "Revisión de calificación Nombre de tu especialidad" y en el cuerpo del correo deberá incluir:
+Nombre del alumno solicitante
+ID del alumno solicitante
+Nombre de la materia en cuestión
+Nombre del profesor de la materia
+
+Pregunta: ¿Cuáles materias puedo inscribir en el semestre?
+Respuesta: En la sección de Especialidades encontrarás las especialidades con las que cuenta el Posgrado de IngenieríaUP. En cada una de estas se encuentra un apartado llamado Oferta de Materias donde se indica qué materias podrás inscribir de acuerdo al semestre.
+
+Pregunta: ¿Hay alguna guía que pueda seguir para saber cómo inscribir mis materias del siguiente semestre en el sistema?
+Respuesta: Dentro de la sección Oferta de Materias que se encuentra en cada una de las especialidades, hay una guía en video que explica cómo se pueden dar de alta las materias en el sistema. Si tuvieras algún problema puedes contactar a la Coordinación de Asuntos Estudiantiles con el Ing. Francisco Cal y Mayor Peña al correo fcal@up.edu.mx
+
+Pregunta: ¿Cuál es el proceso de titulación para la maestría?
+Respuesta: En la sección de Maestrías encontrarás un apartado llamado Titulación, ahí podrás encontrar los diferentes métodos de titulación para la maestría así como el proceso que tendrás que llevar a cabo.
+
+Pregunta: ¿Cuándo se aplican las becas y descuentos?
+Respuesta: La aplicación es dentro de la segunda semana de haber iniciado el semestre. (Segunda semana de Agosto y segunda semana de Enero)
+
+Pregunta: Si cuento con algún indicador económico ¿Con quién puedo acudir?
+Respuesta: Ingresando a la sección de "Contactos Caja y Cobranza" encontrarás los contactos para resolver este problema
+
+Pregunta: Si ya inscribí mis materias en el sistema ¿Cuál es el siguiente paso?
+Respuesta: Es importante que revises en UPSite que tus materias se vean reflejadas. En caso de querer dar de baja una materia y estar fuera del tiempo de inscripción, deberás llenar el formato de baja y mandarlo al Coordinador de Asuntos Estudiantiles. La baja de materias solo se puede hacer durante la primera semana de clases.
+
+Pregunta: ¿Cómo sé cuánto tengo que pagar y cuándo?
+Respuesta: En la sección de Fechas importantes podrás ver las fechas límite de pagos, así como días de inicio de los trimestres, asuetos y demás.
+Recuerda que el pago depende de la cantidad de créditos que hayas metido ese semestre, teniendo en cuenta que las materias obligatorias tiene un equivalente a 5 créditos y las materias optativas 4 créditos.
+Inscripción = 4 créditos  x  costo de unidad de crédito.
+Colegiaturas= ((número de créditos - 4 créditos de la inscripción)  x  costo de unidad de crédito)/5
+En caso de haber ingresado intersemestralmente (octubre o marzo) el pago será la multiplicación de los créditos totales entre 3 y las fechas límite de pago serán las establecidas en el calendario.
+
+Pregunta: ¿Me puedo ir en cualquier semestre de intercambio?
+Respuesta: Si, sin embargo te recomendamos que lo hagas en el segundo semestre.
+
+Pregunta: ¿Cuantas materias puedo revalidar al irme de intercambio?
+Respuesta: Tienes un total de máximo 25 créditos.
+
+Pregunta: ¿Tengo algún descuento si pago por adelantado el semestre?
+Respuesta: Aplicar el 5% de descuento si pagas todo el semestre un mes antes de iniciar el posgrado. Esto 5% es después de aplicación de becas o descuentos (según sea el caso)
+
+Pregunta: Si tengo dos carreras, ¿La especialidad me sirve como medio de titulación de las dos carreras?
+Respuesta: Se deberán concluir los créditos de ambas licenciaturas para que la especialidad sirva de forma de titulación de ambas carreras.
+
+Calendario de posgrados
+Link al calendario de posgrados: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/calendario?authuser=0
+
+Ligas de clases
+Link a la página con las ligas de clases: https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/ligas-de-clases?authuser=0
+
+Liderazgo:
+Curso de LIDERAZGO (Ontológico) | edición JUEVES | del 27 de julio al 14 de septiembre de 2023
+https://us02web.zoom.us/j/84285187763?pwd=VUd5OTBTdWN2aUtSNHRYREp6eGE1QT09 
+Meeting ID: 842 8518 7763
+Passcode: 595690
+
+Dinámica de robots:
+https://riceuniversity.zoom.us/j/92026623722?pwd=dlhDZ3FueTIzcXExZ2NVM2FCMnczUT09
+
+Inteligencia de negocios:
+https://riceuniversity.zoom.us/j/97287087084?pwd=SGtLcS8xL3JhR3VvSnJLMG5ucjNBZz09
+
+Visualización y narración de historias:
+https://riceuniversity.zoom.us/j/95097073303?pwd=cmNZM3NYeG9VR0VldDZWTmVtUitTUT09
+
+Inicio y planeación de proyectos:
+https://up-edu-mx.zoom.us/j/97495889613?pwd=Q0N2MWpYRnhiaUVibHVlb1loeFNpUT09
+ID de reunión: 974 9588 9613
+Código de acceso: 968931
+
+
+Planes de estudios por maestría 
+
+MAESTRÍA EN INGENIERÍA 
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/maestr%C3%ADas/maestr%C3%ADa-en-ingenier%C3%ADa?authuser=0
+
+MAESTRÍA EN INGENIERÍA Y GESTIÓN DE LA CADENA DE SUMINISTRO
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/maestr%C3%ADas/maestr%C3%ADa-en-ingenier%C3%ADa-y-gesti%C3%B3n-de-la-cadena-de-suministro?authuser=0
+
+MAESTRÍA EN DIRECCIÓN DE OPERACIONES
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/maestr%C3%ADas/maestr%C3%ADa-en-direcci%C3%B3n-de-operaciones?authuser=0
+
+MAESTRÍA EN CIENCIAS DE DATOS
+https://sites.google.com/up.edu.mx/posgrados-up/men%C3%BA/maestr%C3%ADas/maestr%C3%ADa-en-ciencia-de-datos?authuser=0
