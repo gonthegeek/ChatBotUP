@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import './App.css';
 
+const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+
 function App() {
   const [question, setQuestion] = useState('');
   const [response, setResponse] = useState('');
 
   const handleAskQuestion = async () => {
     try {
-      const response = await fetch('http://127.0.0.1:5000/ask', {
+      const response = await fetch(`${API_URL}/ask`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

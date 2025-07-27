@@ -1,0 +1,16 @@
+# API Keys and secrets
+constants.py
+.env
+.env.local
+.env.production
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store

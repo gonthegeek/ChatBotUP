@@ -9,9 +9,11 @@ from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.vectorstores import Chroma
 
-import constants
+APIKEY = os.environ.get('OPENAI_API_KEY')
+if not APIKEY:
+    raise ValueError("Please set OPENAI_API_KEY environment variable")
 
-os.environ["OPENAI_API_KEY"] = constants.APIKEY
+os.environ["OPENAI_API_KEY"] = APIKEY
 
 app = Flask(__name__)
 CORS(app)  # Add this line to enable CORS
@@ -25,7 +27,7 @@ def create_chain():
         vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
         index = VectorStoreIndexWrapper(vectorstore=vectorstore)
     else:
-        loader = TextLoader("data/data.txt")  # Use this line if you only need data.txt
+        loader = TextLoader("data/data.txt", 'utf-8')  # Use relative path
         # loader = DirectoryLoader("data/")
         if PERSIST:
             index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory": "persist"}).from_loaders([loader])

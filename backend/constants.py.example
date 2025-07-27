@@ -1,0 +1,3 @@
+# Replace with your own OpenAI API Key https://platform.openai.com/account/api-keys
+# Copy this file to constants.py and add your actual API key
+APIKEY = "your-openai-api-key-here"
